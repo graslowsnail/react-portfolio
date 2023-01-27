@@ -22,9 +22,9 @@ const PhotoList = ({ category }) => {
       description:'Lorem ipsu, consectetur adipiscing elit. Nunc ultricie'
     },
     { 
-      name: 'Place Holder',
+      name: 'Brick Street',
       category: 'projectPics',
-      description:'Lorem ipsu, consectetur adipiscing elit. Nunc ultricie'
+      description:'group project 3, a full stack application using the MERN tech stack'
     }
     
   ]);
